@@ -46,9 +46,9 @@ const gameTime = {
 // root action types
 const actionTypes = {
   gameStats,
-  gameStatus,
   flagActions,
   openTiles,
+  gameStatus,
   gameTime
 };
 
