@@ -1,4 +1,3 @@
-// imports/client/reducers/gameStats.js
 import { gameStats } from 'imports/client/constants/actionTypes.js';
 const { EASY, NORMAL, HARD } = gameStats;
 
